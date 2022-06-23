@@ -1,2 +1,2 @@
-#!/bin/bas:q
+#!/bin/bash
 chmod -R ugo+X .
